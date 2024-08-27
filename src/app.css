@@ -1,0 +1,8 @@
+.footer{
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+    aspect-ratio: 1440 / 593;
+    background-size: cover;
+    width: 100%;
+    height: 593px;
+}
